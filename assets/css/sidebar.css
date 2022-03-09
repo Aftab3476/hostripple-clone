@@ -1,0 +1,41 @@
+.first-row{
+    font-size: 14px;
+}
+.first-row-image{
+    height: auto;
+    width: 60px;
+}
+.second-row-image{
+    height: auto;
+    width: 60px;
+}
+.font-color:hover{
+    color: #2b4dac;
+}
+
+.cardd:hover{
+    sha
+}
+
+.flag{
+    height: auto;
+    width: 35px;
+}
+
+.india-flag{
+    width: 35px;
+    height: auto;
+}
+
+.side-bar{
+    border-radius: 0;
+    font-size: 17px;
+    border-radius:0;
+}
+
+.over-flow{
+    height:623px;
+    width: 300px;
+    overflow-y: scroll;
+    
+}

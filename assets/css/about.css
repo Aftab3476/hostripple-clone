@@ -1,0 +1,97 @@
+
+.first-color{
+        background: linear-gradient(-45deg, #3967e6 0%, #392c82 60%, #392c82 99%)
+}
+
+@media screen and (max-width: 500px){
+    .about-Hostripple{
+        font-size: 20px;
+    }
+    .hostripples-paragraph{
+        font-size: 13px;
+    }
+    .Hosting-Excellence{
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 501px) {
+    .about-Hostripple{
+        font-size: 21px;
+    }
+    .hostripples-paragraph{
+        font-size: 14px;
+    }
+    .Hosting-Excellence{
+        font-size: 25px;
+    }
+}
+
+@media screen and (min-width: 701px) {
+    .Hosting-Excellence{
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 901px){
+    .about-Hostripple{
+        font-size: 40px;
+    }
+}
+
+.card-1{
+    color: #70799f;
+}
+.clients-row{
+        background: -webkit-linear-gradient(45deg, #3967e6 0%, #3967e6 13%, #392c82 52%, #392c82 100%);
+}
+.join-hand{
+    background-color: #ecf5ff;
+}
+
+.career{
+    background: linear-gradient(45deg, #3967e6 0%, #3967e6 13%, #392c82 52%,#392c82 100%);
+    position: relative;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    display: block;
+    z-index: 1;
+}
+.icon{
+    background-image: url('../image/icon-bg.png');
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: -1;
+}
+
+.owlcarousel-color{
+    background-color: #ecf5ff;
+}
+
+.owl-image{
+    width: auto !important;
+    height: 130px !important;
+
+}
+
+.twiter{
+    border-radius: 50%;
+    border: solid 1px #fff;
+    width: 40PX;
+    height: 40px;
+    padding-left:11px;
+    padding-top: 8px;
+}
+
+.owl-dots{
+    display: none;
+}
+
+.owl-nav{
+    display: none;
+}

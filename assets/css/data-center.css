@@ -1,0 +1,176 @@
+.flag {
+  height: auto;
+  width: 35px;
+}
+
+.bg-navcolor {
+  background-color: #2b4dac;
+}
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar-fist > li > a {
+  font-size: 0.98235rem;
+  color: white !important;
+  font-weight: 300;
+}
+.second-navcolor {
+  background-color: #3967e6;
+}
+.brand {
+  width: auto;
+  height: 50px;
+}
+
+.first-row {
+  font-size: 14px;
+}
+.first-row-image {
+  height: auto;
+  width: 60px;
+}
+.second-row-image {
+  height: auto;
+  width: 60px;
+}
+.font-color:hover {
+  color: #2b4dac;
+}
+
+.container-color {
+  background-color: #392c82;
+  border-bottom-left-radius: 40%;
+  border-bottom-right-radius: 40%;
+}
+
+.india-container {
+  padding-top: 75px;
+  padding-bottom: 250px;
+}
+
+@media screen and (max-width: 500px) {
+  .hostripple {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 501px) {
+  .hostripple {
+    font-size: 25px !important;
+  }
+}
+@media screen and (min-width: 701px) {
+  .hostripple {
+    font-size: 30px !important;
+  }
+}
+@media screen and (min-width: 901px) {
+  .hostripple {
+    font-size: 40px !important;
+  }
+}
+
+.back-image {
+  background-image: url("https://hostripples.in/images/banner-icons/hard-disk-drive.png");
+  background-position: cover;
+  background-repeat: no-repeat;
+}
+
+.select-forms {
+  background-color: #3967e6 !important;
+  color: #fff !important;
+}
+
+.select-form {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+.carded {
+  border-bottom-right-radius: 15% !important;
+  border-bottom-left-radius: 15% !important;
+  border: 0 !important;
+}
+.cardeds {
+  background: linear-gradient(
+    120deg,
+    #3967e6 0%,
+    #3967e6 13%,
+    #392c82 52%,
+    #392c82 100%
+  );
+}
+
+.free-ssl {
+  font-size: 17px;
+  color: #000;
+  line-height: 1.2;
+}
+
+.free-ssls {
+  font-size: 17px;
+  color: #fff;
+  line-height: 1.2;
+}
+
+.btns {
+  color: #2b4dac !important;
+}
+@media screen and(max-width:500px) {
+  .location {
+    font-size: 15px !important;
+  }
+}
+
+.btns:hover {
+  background-color: #2b4dac !important;
+  color: #fff !important;
+}
+.pricing-tab-link {
+  border-radius: 2rem !important;
+}
+.pricing-tab-link .active {
+  color: #fff !important;
+}
+.pricing-tab-link {
+  color: #000;
+}
+.pricing-tab-link :hover {
+  color: #000 !important;
+}
+
+.container-colorr {
+  background-color: #ecf5ff;
+}
+
+.owl-dots {
+  display: none;
+}
+
+.owl-nav {
+  display: none;
+}
+
+.last-color {
+  background-color: #113072;
+}
+
+.image-last {
+  height: auto;
+  width: 51px;
+}
+
+.end-color {
+  background-color: #0d2352;
+}
+
+.twiter {
+  border-radius: 50%;
+  border: solid 1px #fff;
+  width: 40px;
+  height: 40px;
+  padding-left: 0px;
+  padding-top: 8px;
+}
